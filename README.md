@@ -66,3 +66,9 @@ Email: mandiomam@cput.ac.za
 Cape Peninsula University of Technology  
 Phone: (021) 460-3675  
 Email: burer@cput.ac.za  
+
+---
+
+## Mock Interview Video
+
+[Watch my mock interview](https://drive.google.com/file/d/1kQoBrralRo9NuUOKRMRRf9QaAyRI1uqE/view?usp=sharing)
