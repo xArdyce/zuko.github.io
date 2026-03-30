@@ -11,18 +11,6 @@ To obtain a Work-Integrated Learning (WIL) opportunity in the IT field where I c
 
 ---
 
-## Education
-
-**Diploma in Communication Network Design**  
-Cape Peninsula University of Technology, Cape Town  
-*Currently Enrolled*
-
-**High School Diploma**  
-Bellville Technical High School, Cape Town  
-*Completed: 2021*
-
----
-
 ## Work Experience
 
 **IT Support Technician**  
@@ -32,6 +20,18 @@ TurnkeyISP (Remote, New Mexico)
 - Assisted in implementing IT infrastructure upgrades  
 - Collaborated with team members to maintain system performance  
 - Troubleshot technical issues and supported system users  
+
+---
+
+## Education
+
+**Diploma in Communication Network Design**  
+Cape Peninsula University of Technology, Cape Town  
+*Currently Enrolled*
+
+**High School Diploma**  
+Bellville Technical High School, Cape Town  
+*Completed: 2021*
 
 ---
 
