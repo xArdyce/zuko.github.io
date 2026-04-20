@@ -66,11 +66,9 @@ Email: burer@cput.ac.za
 
 ## Mock Interview Video
 
-<video src="Interview.mp4" controls="controls" style="max-width: 100%;">
+<video src="./Media/Interview.mp4" controls="controls" style="max-width: 100%;">
   Your browser does not support the video tag.
 </video>
-
-*Note: If the video does not load, you can view it [here](https://drive.google.com/file/d/1kQoBrralRo9NuUOKRMRRf9QaAyRI1uqE/view?usp=sharing).*
 
 ---
 
@@ -85,16 +83,14 @@ Email: burer@cput.ac.za
 ### 2. Mock Interview Video Experience
 **Situation:** To prepare for the workplace and Work-Integrated Learning (WIL) opportunities, I recorded a mock interview to demonstrate my communication skills.
 **Task:** The objective was to answer behavioral questions from the provided rubric within a 2-minute limit while maintaining a professional appearance and tone.
-**Action:** I scripted my responses using the STAR method to ensure my answers were concise and results-oriented. As a video editor, I also focused on the framing and lighting of the recording to ensure high quality before embedding the file into my GitHub repository using HTML tags.
+**Action:** I scripted my responses using the STAR method to ensure my answers were concise and results-oriented. As a video editor, I also focused on the framing and lighting of the recording before embedding the file into my GitHub repository using HTML tags.
 **Result:** The process improved my ability to articulate my technical skills under pressure. The final video provides a professional demonstration of my soft skills to potential employers viewing my portfolio.
 
 ### 3. Using GitHub Pages for Portfolio Hosting
 **Situation:** The final requirement for the project was to host my portfolio online so that it is accessible via a public URL.
-**Task:** I needed to configure GitHub Pages to serve my repository as a live website, ensuring that all assets like images and videos render correctly for the viewer.
-**Action:** I navigated the repository settings to enable the GitHub Pages feature, selecting the main branch as the source. I verified that the README.md file acted correctly as the landing page and tested the responsiveness of the site on different devices.
-**Result:** My portfolio is now live and accessible to lecturers and recruiters. This experience taught me the fundamentals of version control and web hosting, which are essential for managing IT infrastructure and professional digital identities.
-
----
+**Task:** I needed to configure GitHub Pages to serve my repository as a live website, ensuring that all assets like images and videos render correctly.
+**Action:** I navigated the repository settings to enable the GitHub Pages feature, selecting the main branch as the source. I verified that the README.md file acted correctly as the landing page and tested the responsiveness of the site.
+**Result:** My portfolio is now live and accessible to recruiters. This experience taught me the fundamentals of version control and web hosting, essential for professional digital identities.
 
 ---
 
