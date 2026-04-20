@@ -96,7 +96,10 @@ Email: burer@cput.ac.za
 
 ---
 
+---
+
 ## Supporting Documents
-- [Certified ID Copy](#)
-- [Matric Certificate](#)
-- [Academic Record](#)
+- [Curriculum Vitae (PDF Version)](./Documents/CV.pdf)
+- [Certified ID Copy](./Documents/ID%20.pdf)
+- [Matriculation Certificate](./Documents/Matriculation%20Certificate%20.pdf)
+- [Academic Record](./Documents/Academic_Record.pdf)
