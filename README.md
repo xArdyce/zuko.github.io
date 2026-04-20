@@ -13,8 +13,7 @@ To obtain a Work-Integrated Learning (WIL) opportunity in the IT field where I c
 
 ## Work Experience
 
-**IT Support Technician**  
-TurnkeyISP (Remote, New Mexico)  
+**IT Support Technician** TurnkeyISP (Remote, New Mexico)  
 *Jan 2022 – Jan 2023*
 
 - Assisted in implementing IT infrastructure upgrades  
@@ -25,12 +24,10 @@ TurnkeyISP (Remote, New Mexico)
 
 ## Education
 
-**Diploma in Communication Network Design**  
-Cape Peninsula University of Technology, Cape Town  
+**Diploma in ICT: Communication Networks** Cape Peninsula University of Technology, Cape Town  
 *Currently Enrolled*
 
-**High School Diploma**  
-Bellville Technical High School, Cape Town  
+**High School Diploma** Bellville Technical High School, Cape Town  
 *Completed: 2021*
 
 ---
@@ -57,13 +54,11 @@ Bellville Technical High School, Cape Town
 
 ## References
 
-**Martin Tangawafunga Mandioma**  
-Cape Peninsula University of Technology  
+**Martin Tangawafunga Mandioma** Cape Peninsula University of Technology  
 Phone: (021) 460-3675  
 Email: mandiomam@cput.ac.za  
 
-**Rebecca Bure**  
-Cape Peninsula University of Technology  
+**Rebecca Bure** Cape Peninsula University of Technology  
 Phone: (021) 460-3675  
 Email: burer@cput.ac.za  
 
@@ -71,4 +66,37 @@ Email: burer@cput.ac.za
 
 ## Mock Interview Video
 
-[Watch my mock interview](https://drive.google.com/file/d/1kQoBrralRo9NuUOKRMRRf9QaAyRI1uqE/view?usp=sharing)
+<video src="Interview.mp4" controls="controls" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+
+*Note: If the video does not load, you can view it [here](https://drive.google.com/file/d/1kQoBrralRo9NuUOKRMRRf9QaAyRI1uqE/view?usp=sharing).*
+
+---
+
+## Reflections (STAR Method)
+
+### 1. Coding the CV in Markdown
+**Situation:** As part of the PRP37XS Digital Portfolio requirements, I had to present my professional CV in a format compatible with GitHub.
+**Task:** My goal was to move away from traditional word processors and use Markdown language to create a structured, web-ready version of my CV that displays correctly on GitHub Pages.
+**Action:** I utilized various Markdown syntax elements, including hierarchical headers for organization, bolding for emphasis, and horizontal rules to separate sections. I also ensured that all contact information and links were functional and that the layout remained clean and professional.
+**Result:** I successfully created a responsive CV that is integrated directly into my repository. This demonstrated my ability to use documentation-as-code, a vital skill in the ICT and networking industry.
+
+### 2. Mock Interview Video Experience
+**Situation:** To prepare for the workplace and Work-Integrated Learning (WIL) opportunities, I recorded a mock interview to demonstrate my communication skills.
+**Task:** The objective was to answer behavioral questions from the provided rubric within a 2-minute limit while maintaining a professional appearance and tone.
+**Action:** I scripted my responses using the STAR method to ensure my answers were concise and results-oriented. As a video editor, I also focused on the framing and lighting of the recording to ensure high quality before embedding the file into my GitHub repository using HTML tags.
+**Result:** The process improved my ability to articulate my technical skills under pressure. The final video provides a professional demonstration of my soft skills to potential employers viewing my portfolio.
+
+### 3. Using GitHub Pages for Portfolio Hosting
+**Situation:** The final requirement for the project was to host my portfolio online so that it is accessible via a public URL.
+**Task:** I needed to configure GitHub Pages to serve my repository as a live website, ensuring that all assets like images and videos render correctly for the viewer.
+**Action:** I navigated the repository settings to enable the GitHub Pages feature, selecting the main branch as the source. I verified that the README.md file acted correctly as the landing page and tested the responsiveness of the site on different devices.
+**Result:** My portfolio is now live and accessible to lecturers and recruiters. This experience taught me the fundamentals of version control and web hosting, which are essential for managing IT infrastructure and professional digital identities.
+
+---
+
+## Supporting Documents
+- [Certified ID Copy](#)
+- [Matric Certificate](#)
+- [Academic Record](#)
