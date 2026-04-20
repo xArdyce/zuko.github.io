@@ -69,7 +69,7 @@ Email: burer@cput.ac.za
 <video src="./Media/Interview.mp4" controls="controls" style="max-width: 100%;">
   Your browser does not support the video tag.
 </video>
-*Note: If the video does not load, you can view it [here](./Media/Interview.mp4).*
+*Note: If the video does not load, you can view it [here](https://drive.google.com/file/d/1kQoBrralRo9NuUOKRMRRf9QaAyRI1uqE/view?usp=sharing).*
 
 ---
 
