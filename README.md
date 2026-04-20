@@ -69,28 +69,29 @@ Email: burer@cput.ac.za
 <video src="./Media/Interview.mp4" controls="controls" style="max-width: 100%;">
   Your browser does not support the video tag.
 </video>
+*Note: If the video does not load, you can view it [here](./Media/Interview.mp4).*
 
 ---
 
-## Reflections (STAR Method)
+## Reflections
 
-### 1. Coding the CV in Markdown
-**Situation:** As part of the PRP37XS Digital Portfolio requirements, I had to present my professional CV in a format compatible with GitHub.
-**Task:** My goal was to move away from traditional word processors and use Markdown language to create a structured, web-ready version of my CV that displays correctly on GitHub Pages.
-**Action:** I utilized various Markdown syntax elements, including hierarchical headers for organization, bolding for emphasis, and horizontal rules to separate sections. I also ensured that all contact information and links were functional and that the layout remained clean and professional.
-**Result:** I successfully created a responsive CV that is integrated directly into my repository. This demonstrated my ability to use documentation-as-code, a vital skill in the ICT and networking industry.
+### Reflection: Coding the CV in Markdown
+**Situation:** I needed to present my professional background in a format compatible with my digital portfolio.  
+**Task:** My goal was to use Markdown to create a structured, web-ready version of my CV for GitHub.  
+**Action:** I utilized hierarchical headers, formatting syntax, and horizontal rules to organize my history and ensure all links were functional.  
+**Result:** I successfully created a responsive CV integrated into my repository, demonstrating proficiency in documentation-as-code.
 
-### 2. Mock Interview Video Experience
-**Situation:** To prepare for the workplace and Work-Integrated Learning (WIL) opportunities, I recorded a mock interview to demonstrate my communication skills.
-**Task:** The objective was to answer behavioral questions from the provided rubric within a 2-minute limit while maintaining a professional appearance and tone.
-**Action:** I scripted my responses using the STAR method to ensure my answers were concise and results-oriented. As a video editor, I also focused on the framing and lighting of the recording before embedding the file into my GitHub repository using HTML tags.
-**Result:** The process improved my ability to articulate my technical skills under pressure. The final video provides a professional demonstration of my soft skills to potential employers viewing my portfolio.
+### Reflection: Mock Interview Video Experience
+**Situation:** To prepare for the workplace, I recorded a mock interview to demonstrate my communication skills.  
+**Task:** The objective was to answer behavioral questions within a 2-minute limit while maintaining a professional tone.  
+**Action:** I scripted my responses using the STAR method for conciseness and used my video editing background to ensure high-quality framing before embedding the file via HTML.  
+**Result:** This process improved my ability to articulate technical skills under pressure and provided a professional demonstration of my soft skills.
 
-### 3. Using GitHub Pages for Portfolio Hosting
-**Situation:** The final requirement for the project was to host my portfolio online so that it is accessible via a public URL.
-**Task:** I needed to configure GitHub Pages to serve my repository as a live website, ensuring that all assets like images and videos render correctly.
-**Action:** I navigated the repository settings to enable the GitHub Pages feature, selecting the main branch as the source. I verified that the README.md file acted correctly as the landing page and tested the responsiveness of the site.
-**Result:** My portfolio is now live and accessible to recruiters. This experience taught me the fundamentals of version control and web hosting, essential for professional digital identities.
+### Reflection: Using GitHub Pages for Portfolio Hosting
+**Situation:** The final requirement was to host my portfolio online for public access.  
+**Task:** I needed to configure GitHub Pages to serve my repository as a live website.  
+**Action:** I enabled the GitHub Pages feature in the repository settings, selected the main branch as the source, and verified that all assets and links rendered correctly.  
+**Result:** My portfolio is now live and accessible via a public URL, showcasing my ability to manage version control and web hosting.
 
 ---
 
