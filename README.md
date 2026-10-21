@@ -70,7 +70,7 @@ Email: burer@cput.ac.za
   Your browser does not support the video tag.
 </video>
 
-*Note: If the video does not load, you can view it [here](https://drive.google.com/file/d/1kQoBrralRo9NuUOKRMRRf9QaAyRI1uqE/view?usp=sharing).*
+*Note: If the video does not load, you can view it [here](https://drive.google.com/file/d/1zLPeMeY3DSMnqYad9YUi6hGz30IkTdEf/view?usp=sharing).*
 
 ---
 
